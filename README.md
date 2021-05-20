@@ -1,7 +1,12 @@
 Emit an event when the location of the page is changed.
 
-# Example Usage
+## Install
 ```bash
+npm install --save location-change-event
+```
+
+## Example Usage
+```javascript
 window.addEventListener('locationchange', function (event) {
   console.log('locationchange', event)
 });

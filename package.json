@@ -16,5 +16,5 @@
     "url": "https://github.com/markwylde/location-change-event/issues"
   },
   "homepage": "https://github.com/markwylde/location-change-event#readme",
-  "description": ""
+  "description": "Emit an event when the location of the page is changed."
 }
